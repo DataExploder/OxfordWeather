@@ -1,5 +1,7 @@
 # OxfordWeather
 
+**Current Exploratory Work in Progress**
+
 This is an unguided project exploring historic weather data from Oxford using Python and Matplotlib. 
 
 This project uses Jupyter Notebooks
